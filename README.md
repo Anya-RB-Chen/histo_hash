@@ -23,5 +23,7 @@ If no cloud service is available, then I recommend to install the Jupyter servic
 
 ```jupyter notebook main.ipynb```
 
+*Attention*: If you want to train the algorithm from beginning, please remember to unzip the dataset file for your processing. 
+
 ## Dataset
 MNIST & StanfordDogsDataset
